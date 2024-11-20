@@ -1,0 +1,15 @@
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "rileymoranmicroplasticresearch.github.io"]
+	path = rileymoranmicroplasticresearch.github.io
+	url = https://github.com/ram-24-mp/rileymoranmicroplasticresearch.github.io.git
+	branch = main
+[submodule "deployer"]
+	path = deployer
+	url = https://github.com/ram-24-mp/rileymoranmicroplasticresearch.github.io.git
+	branch = main
+[submodule "public"]
+	path = public
+	url = https://github.com/ram-24-mp/rileymoranmicroplasticresearch.github.io.git
+	branch = main
